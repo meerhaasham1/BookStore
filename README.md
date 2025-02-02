@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 ### Clone the repository
 ```sh
-git clone https://github.com/yourusername/bookstore.git
+git clone https://github.com/meerhaasham1/BookStore.git
 cd bookstore
 ```
 
@@ -79,4 +79,4 @@ npm start
 Pull requests are welcome. For major changes, please open an issue first.
 
 ## License
-This project is open-source under the MIT License.
+This project is open-source.
